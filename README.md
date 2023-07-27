@@ -38,7 +38,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
 
 ## Stats 📈
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainUnknown&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainUnknown&langs_count=7&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
