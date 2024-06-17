@@ -1,5 +1,5 @@
 ### Hi, I'm [Shehroz K.](mailto:captainunknown7@gmail.com) aka Captain Unknown,
-#### A Crazy Curious & Self-taught Web3 Developer, eager to join a team of innovators!
+I'm a cybersecurity student with a strong interest in the intersection of cybersecurity & blockchain technology, with a strong foundation in blockchain architecture, abstraction layers, & RWA. I've built secure & scalable user-facing products & DApps for Web3 startups from all over the globe.
 
 ## Stack 📚
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
